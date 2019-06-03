@@ -1,0 +1,13 @@
+C:\Users\1\RiderProjects\Tanki2.0\Tanki2.0\bin\Debug\Tanki2._0.exe
+C:\Users\1\RiderProjects\Tanki2.0\Tanki2.0\bin\Debug\Tanki2._0.pdb
+C:\Users\1\RiderProjects\Tanki2.0\Tanki2.0\obj\Debug\Tanki2.0.csprojResolveAssemblyReference.cache
+C:\Users\1\RiderProjects\Tanki2.0\Tanki2.0\obj\Debug\Tanki2.0.csproj.CoreCompileInputs.cache
+C:\Users\1\RiderProjects\Tanki2.0\Tanki2.0\obj\Debug\Tanki2._0.exe
+C:\Users\1\RiderProjects\Tanki2.0\Tanki2.0\obj\Debug\Tanki2._0.pdb
+E:\ООП лабы\Tanki2.0\bin\Debug\Tanki2._0.exe.config
+E:\ООП лабы\Tanki2.0\bin\Debug\Tanki2._0.exe
+E:\ООП лабы\Tanki2.0\bin\Debug\Tanki2._0.pdb
+E:\ООП лабы\Tanki2.0\obj\Debug\Tanki2.0.csprojResolveAssemblyReference.cache
+E:\ООП лабы\Tanki2.0\obj\Debug\Tanki2.0.csproj.CoreCompileInputs.cache
+E:\ООП лабы\Tanki2.0\obj\Debug\Tanki2._0.exe
+E:\ООП лабы\Tanki2.0\obj\Debug\Tanki2._0.pdb
